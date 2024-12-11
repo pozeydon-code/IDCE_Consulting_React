@@ -1,0 +1,18 @@
+.is-invalid {
+  border: red solid 1px !important;
+}
+
+.error {
+  color: red;
+}
+
+input {
+  border: black solid 1px !important;
+  border-radius: 10px;
+  height: 30px;
+  padding: 5px;
+}
+
+body {
+  overflow: auto !important;
+}
